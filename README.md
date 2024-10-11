@@ -1,7 +1,7 @@
 
 # Restaurant Sentiment Recommendation System
 
-**[Live Web App](#)**
+**[Live Web App](https://tafique-hossain-khan-restaurant-sentiment-recommenda-app-nr7l6e.streamlit.app/)**
 
 ## Overview
 The **Restaurant Sentiment Recommendation System** is a web application that analyzes restaurant reviews and recommends restaurants based on sentiment analysis, cuisine preferences, and ratings. This project applies **Natural Language Processing (NLP)** techniques to understand customer feedback and uses a **content-based recommendation system** to provide personalized suggestions.
