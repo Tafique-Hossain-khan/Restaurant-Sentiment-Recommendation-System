@@ -15,8 +15,8 @@ from recommend import Recommend
 
 
 # Load Dataset
-hotel_df = pd.read_csv('Data\\Zomato_Restaurant_names_and_Metadata.csv')
-review_df = pd.read_csv('Data\\Zomato_Restaurant_reviews.csv')
+hotel_df = pd.read_csv('Data\Zomato_Restaurant_names_and_Metadata.csv')
+review_df = pd.read_csv('Data\Zomato_Restaurant_reviews.csv')
 merge_df = pd.read_csv("Data\\final_df.csv")
 recommend_df = pd.read_csv('Data\\recommend_df.csv')
 with st.sidebar:
