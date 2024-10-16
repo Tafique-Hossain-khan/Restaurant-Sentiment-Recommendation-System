@@ -256,7 +256,7 @@ elif selected == 'Personalized Restaurant Recommendations':
 
 
 elif selected == 'Sentiment Analysis':
-        df = pd.read_csv("Data\\sentiment_tag.csv")
+        df = pd.read_csv('Data\\sentiment_tag.csv')
 
         # Streamlit app
         st.title('Restaurant Review Sentiment Analysis with Preprocessing and Sentiment')
